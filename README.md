@@ -41,8 +41,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name:Sabari Akash A
+### Register Number: 212222230124
 ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -118,7 +118,7 @@ ai_model.predict(x_n1_1)
 
 ### New Sample Data Prediction
 
-<img src="image-3.png" width="450" height="50">
+<img src="https://github.com/user-attachments/assets/871cbd39-19a0-49fb-8b1b-82ed73cc6dd9" width="450" height="50">
 
 ## RESULT
 
