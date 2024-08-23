@@ -41,8 +41,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name:Sabari Akash A
+### Register Number: 212222230124
 ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
