@@ -118,7 +118,7 @@ ai_model.predict(x_n1_1)
 
 ### New Sample Data Prediction
 
-<img src="image-3.png" width="450" height="50">
+<img src="https://github.com/user-attachments/assets/871cbd39-19a0-49fb-8b1b-82ed73cc6dd9" width="450" height="50">
 
 ## RESULT
 
