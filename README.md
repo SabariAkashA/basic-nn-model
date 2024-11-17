@@ -1,7 +1,6 @@
-# Developing a Neural Network Regression Model
+# EXP-01:Developing a Neural Network Regression Model
 
 ## AIM
-
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
@@ -108,6 +107,7 @@ ai_model.predict(x_n1_1)
 
 ## OUTPUT
 ![output](image-4.png)
+
 ### Training Loss Vs Iteration Plot
 
 <img src="image-1.png" width="400" height="300">
@@ -121,5 +121,4 @@ ai_model.predict(x_n1_1)
 <img src="https://github.com/user-attachments/assets/871cbd39-19a0-49fb-8b1b-82ed73cc6dd9" width="450" height="50">
 
 ## RESULT
-
 Thus the neural network regression model for the given dataset is developed successfully!
